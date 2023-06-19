@@ -1,0 +1,6 @@
+body {background-color: rgb(204, 4, 61);}
+h1 {color:white;); text-align: left;}
+div {text-align:center}
+button {background-color: blue; padding: 15px 32px; border-radius: 12px;}
+button:hover {background-color: white;}
+p {color: purple; font-style: italic; text-align: center;}
